@@ -25,7 +25,7 @@ I focus on automation, high-speed execution, and security in crypto environments
 
 Here are some of my top projects focused on Solana and trading bot automation:
 
-### 🔹 [**Solana-Sniper-Bot**](https://github.com/S4NTH174UN9/Solana-Sniper-Bot)
+### 🔹 [**SolaTradeX**](https://github.com/S4NTH174UN9/SolaTradeX)
 > A high-speed Solana-based bot that snipes new token listings on decentralized exchanges (DEXs). Built with Rust, optimized for Jito Labs and low-latency environments.
 
 - ⚡️ Solana DEX support
@@ -34,7 +34,7 @@ Here are some of my top projects focused on Solana and trading bot automation:
 
 ---
 
-### 🔹 [**Solana-Jito-Bot**](https://github.com/S4NTH174UN9/Solana-Jito-Bot)
+### 🔹 [**LanaBot**](https://github.com/S4NTH174UN9/LanaBot)
 > A Jito-optimized Solana bot designed for MEV strategies and front-running protection.
 
 - 📈 MEV integration with Solana validators
@@ -43,7 +43,7 @@ Here are some of my top projects focused on Solana and trading bot automation:
 
 ---
 
-### 🔹 [**Solana-Mempool-Scanner**](https://github.com/S4NTH174UN9/Solana-Mempool-Scanner)
+### 🔹 [**TradeSol**](https://github.com/S4NTH174UN9/TradeSol)
 > A real-time mempool monitoring tool to detect upcoming transactions and take pre-emptive trading actions.
 
 - 🔍 Real-time transaction watch
@@ -52,7 +52,7 @@ Here are some of my top projects focused on Solana and trading bot automation:
 
 ---
 
-### 🔹 [**Solana-Buy-Bot**](https://github.com/S4NTH174UN9/Solana-Buy-Bot)
+### 🔹 [**SOLverine**](https://github.com/S4NTH174UN9/SOLverine)
 > Auto-buy tokens on Solana DEXs using pre-defined parameters like price threshold, slippage, and timing.
 
 - 🧾 Configurable strategy
