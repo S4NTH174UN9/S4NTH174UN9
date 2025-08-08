@@ -1,16 +1,95 @@
-## Hi there 👋
+<h1 align="center">
+  Welcome to S4NTH174UN9's World of ⚡️Crypto Automation & Web3 Development
+</h1>
 
-<!--
-**S4NTH174UN9/S4NTH174UN9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZjbW5qMWE5cGxyZDRqazU3c2UzNzF6eGIyd2VxanRmcjAwazRxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZXKZWB13Dkz62/giphy.gif" alt="Trading Animation" width="350" />
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Crypto Animation" width="350" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+Hi, I’m **S4NTH174UN9**, a passionate **Rust developer** and **Solana smart contract engineer** who builds high-performance trading bots and decentralized tools for the **Web3 and DeFi ecosystem**.
+
+I focus on automation, high-speed execution, and security in crypto environments — primarily building for **Solana** due to its low-latency capabilities and developer-friendly tooling.
+
+---
+
+## 🔧 Tech Stack
+
+- 🚀 **Languages**: `Rust`, `Python`, `TypeScript`, `Shell`
+- ⚙️ **Tools & Frameworks**: `Solana CLI`, `Anchor`, `GitHub Actions`, `Docker`
+- 🧠 **Specialties**: `Web3`, `DeFi`, `Trading Bots`, `Smart Contracts`, `Blockchain Automation`
+- 🛠 **Platforms**: `Solana`, `GitHub`, `Jito Labs`, `Serum DEX`, `Raydium`
+
+---
+
+## 📂 My Projects
+
+Here are some of my top projects focused on Solana and trading bot automation:
+
+### 🔹 [**Solana-Sniper-Bot**](https://github.com/S4NTH174UN9/Solana-Sniper-Bot)
+> A high-speed Solana-based bot that snipes new token listings on decentralized exchanges (DEXs). Built with Rust, optimized for Jito Labs and low-latency environments.
+
+- ⚡️ Solana DEX support
+- ⏱ Flash-loan compatible
+- 💰 High-frequency scalping
+
+---
+
+### 🔹 [**Solana-Jito-Bot**](https://github.com/S4NTH174UN9/Solana-Jito-Bot)
+> A Jito-optimized Solana bot designed for MEV strategies and front-running protection.
+
+- 📈 MEV integration with Solana validators
+- 🧠 Custom Rust trading logic
+- 🔐 Anti-sandwich protections
+
+---
+
+### 🔹 [**Solana-Mempool-Scanner**](https://github.com/S4NTH174UN9/Solana-Mempool-Scanner)
+> A real-time mempool monitoring tool to detect upcoming transactions and take pre-emptive trading actions.
+
+- 🔍 Real-time transaction watch
+- ⚙️ Built in Rust for low-latency
+- 📡 Great for arbitrage and early detection
+
+---
+
+### 🔹 [**Solana-Buy-Bot**](https://github.com/S4NTH174UN9/Solana-Buy-Bot)
+> Auto-buy tokens on Solana DEXs using pre-defined parameters like price threshold, slippage, and timing.
+
+- 🧾 Configurable strategy
+- 🧪 Supports test mode and logging
+- ⚡️ Fast execution on Serum and Raydium
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S4NTH174UN9&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4NTH174UN9&layout=compact&theme=dark" height="150"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+Feel free to reach out or collaborate on open-source Web3 tools.
+
+- 🌐 **Website**: *[Coming Soon](#)*
+- 🐦 **Twitter**: [@your_handle](https://twitter.com/your_handle)
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💬 **Telegram**: `@your_username`
+- ✉️ **Email**: yourname@example.com
+
+---
+
+## 🧠 Let’s Build the Future of Trading, One Block at a Time.
+
+> **"Automation is the heartbeat of modern DeFi. I’m here to make it faster, smarter, and unstoppable."**
+
+---
+
