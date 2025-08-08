@@ -2,11 +2,6 @@
   Welcome to S4NTH174UN9's World of ⚡️Crypto Automation & Web3 Development
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZjbW5qMWE5cGxyZDRqazU3c2UzNzF6eGIyd2VxanRmcjAwazRxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZXKZWB13Dkz62/giphy.gif" alt="Trading Animation" width="350" />
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Crypto Animation" width="350" />
-</p>
-
 ---
 
 ## 👋 About Me
