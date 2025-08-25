@@ -1,4 +1,4 @@
-# Hi, I'm Carol King 👋
+# Hi, I'm a developer 👋
 
 Mobile app developer creating seamless Android/iOS experiences.
 
